@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+python-jose[cryptography]
+passlib
+python-multipart
+pydantic
+pydantic[email]
+groq
+pdfplumber
+numpy
+faiss-cpu
+langchain-text-splitters
+ddgs
+google-genai
