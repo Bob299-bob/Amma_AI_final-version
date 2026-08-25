@@ -172,7 +172,7 @@ The Android APK is available for testing.
 
 ### 👉 Download APK
 
-**[Download Ammaa AI APK](./Ammaa-AI.apk)**
+**[Download Ammaa AI APK](https://github.com/Bob299-bob/Amma_AI_final-version/blob/main/ammaa.apk)**
 
 > ⚠️ This is a development/testing build. Make sure Android allows installation from the appropriate source before installing.
 
